@@ -1,2 +1,3 @@
-# starbucks-coffee
+# StarBucks Coffee
+
 StarBucks Coffee landing page
